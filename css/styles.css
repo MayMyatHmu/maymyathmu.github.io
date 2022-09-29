@@ -1,0 +1,10 @@
+/*Fonts*/
+
+@font-face { 
+    font-family: pangram;
+    src: url('fonts/Pangram.ttf');
+}
+
+*{ 
+    font-family: pangram;
+}
